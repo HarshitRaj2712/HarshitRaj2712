@@ -6,7 +6,7 @@
    
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Aman-ydav&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=HarshitRaj2712&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
    
   </p>
    
@@ -107,7 +107,7 @@ const Harshit = {
 <div align="center">
   
 ### LeetCode Progress
-<img src="https://leetcard.jacoblin.cool/HarshitRaj2712?theme=dark&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/panditjee2712?theme=dark&font=Karma&ext=heatmap" />
 
 ### Coding Streak & Activity
 - 🔥 **Current Streak:** Solving DSA problems daily
