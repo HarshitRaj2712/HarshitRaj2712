@@ -107,7 +107,7 @@ const Harshit = {
 <div align="center">
   
 ### LeetCode Progress
-<img src="https://leetcard.jacoblin.cool/panditjee2712?theme=dark&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Hars8it2712?theme=dark&font=Karma&ext=heatmap" />
 
 ### Coding Streak & Activity
 - 🔥 **Current Streak:** Solving DSA problems daily
