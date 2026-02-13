@@ -1,38 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,2,3,5,9&height=300&section=header&text=Harshit%20Raj&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62" />
-</div>
 
-<div align="center">
-   
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=HarshitRaj2712&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-   
-  </p>
-   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,2,3,5,9&height=280&section=header&text=Harshit%20Raj&fontSize=70&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Open%20Source%20Enthusiast&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Lover;Open+Source+Contributor;Always+Learning+New+Things" />
+
+<br/>
+
+<a href="https://hars8it2712.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=HarshitRaj2712&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-
-<img align="right" alt="coding" width="400" margin="10px" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
 
 ```javascript
 const Harshit = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    role: "Software Developer",
-    currentlyLearning: ["MERN", "Advanced DSA",],
-    workingOn: "Building scalable web applications",
-    askMeAbout: ["Web Development", "DSA", "Open Source"],
-    technologies: {
-        languages: [ "JavaScript", "Java"],
-        frontend: ["React.js", "TailwindCSS", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "Linux", "VS Code"]
-    },
+    role: "Full Stack Developer",
+    currentlyLearning: ["MERN Stack", "Advanced DSA"],
+    workingOn: "Scalable Web Applications",
+    interests: ["Web Dev", "System Design", "Open Source"],
+    funFact: "I turn coffee into code ☕💻"
 };
 ```
 
@@ -88,9 +84,13 @@ const Harshit = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaj2712&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HarshitRaj2712&theme=radical&hide_border=true" />
+</div>
 
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitRaj2712&theme=redical&hide_border=true&custom_title=Contribution%20Graph" />
+</div>
 
 ---
 
